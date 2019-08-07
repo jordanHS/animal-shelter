@@ -1,0 +1,36 @@
+.img1,
+.img4,
+.img5 {
+  width: 150px;
+  height: 120px;
+}
+
+.img2 {
+  width: 150px;
+  height: 190px;
+}
+
+.img3 {
+  width: 150px;
+  height: 90px;
+}
+
+
+.column1,
+.column2,
+.column3,
+.column4,
+.column5 {
+  width: 180px;
+  float: left;
+  border: 1px black solid;
+}
+
+.column1 p {
+  font-size: 20px;
+  font-family: cursive;
+}
+.column2 p {
+  font-size: 20px;
+  font-style: italic;
+}
